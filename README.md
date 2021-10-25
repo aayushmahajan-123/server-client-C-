@@ -13,8 +13,13 @@ abc.txt----> sample output for the given text file
 
 
 How To run?
+
+
 ---> run the make command
+
 ---> run the server.cpp using "./server <ip_address> <port_no.>
+
 ---> run the server2.cpp using "./server2 <ip_address> <port_no.>
+
 ---> run the client.cpp using "./client <ip_address_of_server> <port_no_of_server> <input.txt> <output.txt>
 
